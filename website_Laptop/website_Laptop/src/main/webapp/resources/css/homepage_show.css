@@ -1,0 +1,9 @@
+.card-img-top {
+    transition: transform 0.3s ease; /* Thêm hiệu ứng mượt mà */
+    cursor: pointer;
+    
+  }
+  
+   .card-img-top:hover {
+    transform: translateY(-10px); /* Dịch ảnh lên trên 10px */
+  }
